@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: green;
+}
+
+.ota {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 420px;
+    height: 100px;
+    border-radius: 20px;
+    margin: 250px auto;
+    background-color: greenyellow;
+    box-shadow: 2px 4px 4px 2px #00000073;
+}
+
+.bola {
+    background-color: yellow;
+    width: 80px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 5px 5px 2px #00000073;
+}
+
+.o {
+    font-size: 30px;
+}
